@@ -1,4 +1,4 @@
-!/usr/bin/python3
+#!/usr/bin/python3
 """
 This is module test_console.
 This module is a unittest for the console module.
