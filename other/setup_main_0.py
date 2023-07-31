@@ -1,4 +1,4 @@
-!/usr/bin/python3
+#!/usr/bin/python3
 import inspect
 import io
 import sys
