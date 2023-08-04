@@ -1,4 +1,4 @@
-!/usr/bin/python3
+#!/usr/bin/python3
 """
 This is module base_model
 This module defines one class HBNBCommand.
