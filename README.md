@@ -55,7 +55,7 @@ Where we are creating a command line interpretor to access objects that will sto
 Authors
 
     Takpa Joseph <armstrong201@gmail.com)
-    Jianqin Wang, <jianqin.wang@holbertonschool.com>, @jianqinwang94
+    Sadiq Abdulmalik <sadiqaliyu98@gmail.com>
 
 
 In order to begin the console, you can run either 'python3 console.py' or './console.py' in the command line.
